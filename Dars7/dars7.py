@@ -8,8 +8,9 @@ oyna.geometry("500x500")
 def click(*args):
     match var.get():
         case "Uz":showinfo("title","salom")
-        case "Ru":showinfo("title","privet")
+        case "Ru":showinfo("title","Привет")
         case "En":showinfo("title","hello")
+        case "Kz":showinfo("title","Сәлеметсіз бе")
 
 
 
