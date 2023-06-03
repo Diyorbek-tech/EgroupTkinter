@@ -8,9 +8,10 @@ oyna.geometry("500x500")
 def click(*args):
     match var.get():
         case "Uz":showinfo("title","salom")
-        case "Ru":showinfo("title","Привет")
+        case "Ru":showinfo("title","privet")
         case "En":showinfo("title","hello")
-        case "Kz":showinfo("title","Сәлеметсіз бе")
+        case "De":showinfo("title","Halo")
+
 
 
 
@@ -20,17 +21,13 @@ menu_elements=[
     "Ru",
     "En",
     "Kz",
-    "Uz"
+    "Uz",
+    "De"
 
 ]
 
 menu=OptionMenu(oyna,var,*menu_elements,command=click)
 menu.pack()
-
-
-
-
-
 
 
 oyna.mainloop()
