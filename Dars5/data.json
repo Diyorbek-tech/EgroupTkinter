@@ -1,0 +1,894 @@
+{
+  "savollar": {
+    "savol1": {
+      "savol": "Yevrosiyoning eng baland cho\u2019qqisi ?\n",
+      "javoblar": {
+        "8848 m\n": "A",
+        "8488m\n": "B",
+        "8484m\n": "C",
+        "8448 m\n": "D"
+      },
+      "tj": "8848 m\n"
+    },
+    "savol6": {
+      "savol": "Yevrosiyodagi eng uzun lianalarning uzunligi ?\n",
+      "javoblar": {
+        "200 m\n": "A",
+        "300 m\n": "B",
+        "250 m\n": "C",
+        "400 m\n": "D"
+      },
+      "tj": "200 m\n"
+    },
+    "savol11": {
+      "savol": "Yer sharida   \u201c sakkiz minglik \u201c nechta cho\u2019qqi mavjud ?\n",
+      "javoblar": {
+        "10 ta \n": "A",
+        "35 ta \n": "B",
+        "25 ta\n": "C",
+        "14 ta\n": "D"
+      },
+      "tj": "10 ta \n"
+    },
+    "savol16": {
+      "savol": "Yevrosiyodagi qor chizig\u2019i Markaziy Tibetda necha metr balandlikdan o\u2019tadi ?\n",
+      "javoblar": {
+        "6400 m\n": "A",
+        "4500 m\n": "B",
+        "4620 m\n": "C",
+        "5 km\n": "D"
+      },
+      "tj": "6400 m\n"
+    },
+    "savol21": {
+      "savol": "Yevrosiyo materigi quruqlikning necha %ini tashkil etadi?\n",
+      "javoblar": {
+        "36,5%\n": "A",
+        "44%\n": "B",
+        "35,6%\n": "C",
+        "30,5%\n": "D"
+      },
+      "tj": "36,5%\n"
+    },
+    "savol26": {
+      "savol": "6. Qaysi materika eng chuqur g'or joylashgan?\n",
+      "javoblar": {
+        "Yevrosiyo\n": "A",
+        "Janubiy Amerika\n": "B",
+        "Shimoliy Amerika\n": "C",
+        "Afrika \n": "D"
+      },
+      "tj": "Yevrosiyo\n"
+    },
+    "savol31": {
+      "savol": "\"Sayyoh olimlar\" asarining muallifi kim?\n",
+      "javoblar": {
+        "H. Hasanov\n": "A",
+        "Beruniy\n": "B",
+        "Nosir Xisrav\n": "C",
+        "Zokirov\n": "D"
+      },
+      "tj": "H. Hasanov\n"
+    },
+    "savol36": {
+      "savol": "Hindikushda qachon halokatli zilzila bo'lib o'tgan?\n",
+      "javoblar": {
+        "2002-yil\n": "A",
+        "2009-yil\n": "B",
+        "2003-yil\n": "C",
+        "1948-yil\n": "D"
+      },
+      "tj": "2002-yil\n"
+    },
+    "savol41": {
+      "savol": "Yevrosiyoda tog'lar necha %i maydonni egallaydi?\n",
+      "javoblar": {
+        "50%\n": "A",
+        "60%\n": "B",
+        "40%\n": "C",
+        "30%\n": "D"
+      },
+      "tj": "50%\n"
+    },
+    "savol46": {
+      "savol": "Yosh platformalar zaminida tashkil topgan pasttekisliklarni aniqlang?\n",
+      "javoblar": {
+        "G'arbiy Sibir, Hind-Gang, Turon\n": "A",
+        "Sharqiy Sibir, Hindiston, Hind-Gang\n": "B",
+        "Sharqiy Sibir, Hindiston, Buyuk Xitoy\n": "C",
+        "Hind-Gang, Buyuk Xitoy, Arabiston\n": "D"
+      },
+      "tj": "G'arbiy Sibir, Hind-Gang, Turon\n"
+    },
+    "savol51": {
+      "savol": "Yevrosiyodagi eng baland vulqonni aniqlang?\n",
+      "javoblar": {
+        "Klyuchi-Sopkasi\n": "A",
+        "Etna\n": "B",
+        "Vezuviy\n": "C",
+        "Stromboli\n": "D"
+      },
+      "tj": "Klyuchi-Sopkasi\n"
+    },
+    "savol56": {
+      "savol": "Subarktika iqlim mintaqasida yoz oylarida havo harorati qanchagacha ko'tariladi?\n",
+      "javoblar": {
+        "+4\u00b0C dan +14\u00b0C\n": "A",
+        "+1\u00b0C dan +3\u00b0C\n": "B",
+        "+4\u00b0C dan +10\u00b0C\n": "C",
+        "+3\u00b0C dan +9\u00b0C\n": "D"
+      },
+      "tj": "+4\u00b0C dan +14\u00b0C\n"
+    },
+    "savol61": {
+      "savol": "Yevrosiyoning eng katta qismini egallagan iqlim mintaqasi qaysi?\n",
+      "javoblar": {
+        "mo'tadil\n": "A",
+        "arktika\n": "B",
+        "subarktika\n": "C",
+        "ekvatorial\n": "D"
+      },
+      "tj": "mo'tadil\n"
+    },
+    "savol66": {
+      "savol": "( er. Avv  485 \u2013 425 yillar) da kim yashab o\u2019tgan ?\n",
+      "javoblar": {
+        "Geradot\n": "A",
+        "Strabon\n": "B",
+        "Geraklit\n": "C",
+        "Aflotun\n": "D"
+      },
+      "tj": "Geradot\n"
+    },
+    "savol71": {
+      "savol": "Xorazmiy boshchiligida qancha kishi olimlar yer yuzini xaritalarini tuzishgan ?\n",
+      "javoblar": {
+        "70\n": "A",
+        "50\n": "B",
+        "90\n": "C",
+        "25\n": "D"
+      },
+      "tj": "70\n"
+    },
+    "savol76": {
+      "savol": "Yevrosiyo va Shimoliy Amerika necha mln yil ilgari ( Lavraziyadan ) ajralishgan ?\n",
+      "javoblar": {
+        "65 mln\n": "A",
+        "180 mln\n": "B",
+        "360 mln\n": "C",
+        "100 mln\n": "D"
+      },
+      "tj": "65 mln\n"
+    },
+    "savol81": {
+      "savol": "Quyidagilardan qaysi tog\u2019 tugun hisoblanadi ?\n",
+      "javoblar": {
+        "Tibet\n": "A",
+        "Hindikush\n": "B",
+        "Alp\n": "C",
+        "Oltoy\n": "D"
+      },
+      "tj": "Tibet\n"
+    },
+    "savol86": {
+      "savol": "Indoneziyada qachon zilzila sodir bo\u2019lgan ?\n",
+      "javoblar": {
+        "2009\n": "A",
+        "2003\n": "B",
+        "2002\n": "C",
+        "1948\n": "D"
+      },
+      "tj": "2009\n"
+    },
+    "savol91": {
+      "savol": "Koreya yarim orolida qaysi foydali qazilma mavjud ?\n",
+      "javoblar": {
+        "oltin\n": "A",
+        "kumush\n": "B",
+        "olmos\n": "C",
+        "uran\n": "D"
+      },
+      "tj": "oltin\n"
+    },
+    "savol96": {
+      "savol": "Yevrosiyo maydonining necha foizi tog\u2019lardan iborat ?\n",
+      "javoblar": {
+        "50 %\n": "A",
+        "30 %\n": "B",
+        "75 %\n": "C",
+        "65 %\n": "D"
+      },
+      "tj": "50 %\n"
+    },
+    "savol101": {
+      "savol": "Harakatdagi eng baland vulqonning balandligi qancha ?\n",
+      "javoblar": {
+        "4750 m\n": "A",
+        "4570 m\n": "B",
+        "4270 m\n": "C",
+        "7445 m\n": "D"
+      },
+      "tj": "4750 m\n"
+    },
+    "savol106": {
+      "savol": "Zangori sapfir \u2013 qayerda qazib olinadi ?\n",
+      "javoblar": {
+        "Shri \u2013 Lanka\n": "A",
+        "Koreya ya.o\n": "B",
+        "Pireney ya.o\n": "C",
+        "Sharqiy Yevropa\n": "D"
+      },
+      "tj": "Shri \u2013 Lanka\n"
+    },
+    "savol111": {
+      "savol": "Yevrosiyoda shimoliy qismining iyul oyidagi harorati qanchaga teng ?\n",
+      "javoblar": {
+        "+12 C\n": "A",
+        "+17 C\n": "B",
+        "+28 C\n": "C",
+        "+9 C\n": "D"
+      },
+      "tj": "+12 C\n"
+    },
+    "savol116": {
+      "savol": "Arabiston yarim orolida iyul oyining o\u2019rtacha harorati ?\n",
+      "javoblar": {
+        "+32 C\n": "A",
+        "+26 C\n": "B",
+        "+23 C\n": "C",
+        "+19 C\n": "D"
+      },
+      "tj": "+32 C\n"
+    },
+    "savol121": {
+      "savol": "Oymyakonda eng past harorat\u2026\u2026..?\n",
+      "javoblar": {
+        "-71 C\n": "A",
+        "-36 C\n": "B",
+        "-50 C\n": "C",
+        "-32 C\n": "D"
+      },
+      "tj": "-71 C\n"
+    },
+    "savol126": {
+      "savol": "Osiyoning janubiy qismida harorat ?\n",
+      "javoblar": {
+        "+32C\n": "A",
+        "+20C\n": "B",
+        "+23C\n": "C",
+        "+19C\n": "D"
+      },
+      "tj": "+32C\n"
+    },
+    "savol131": {
+      "savol": "Cherrapunjaga  - o\u2019rta hisoba yiliga necha mm yog\u2019in tushadi ?\n",
+      "javoblar": {
+        "12\u00a0665 mm\n": "A",
+        "12\u00a0000 mm\n": "B",
+        "23\u00a0000 mm\n": "C",
+        "10\u00a0000 mm\n": "D"
+      },
+      "tj": "12\u00a0665 mm\n"
+    },
+    "savol136": {
+      "savol": "Qachon Cherrapunjaga  - 23\u00a0000 mm yog\u2019in tushgan ?\n",
+      "javoblar": {
+        "1856-y\n": "A",
+        "1956-y\n": "B",
+        "1865-y\n": "C",
+        "1965-y\n": "D"
+      },
+      "tj": "1856-y\n"
+    },
+    "savol141": {
+      "savol": "Yoshargan tog\u2019lani aniqlang ?\n",
+      "javoblar": {
+        "Oltoy, Tyanshan\n": "A",
+        "Ural,Dekan\n": "B",
+        "Pomir,Oltoy\n": "C",
+        "Hindikush, Kopetdog\u2019\n": "D"
+      },
+      "tj": "Oltoy, Tyanshan\n"
+    },
+    "savol146": {
+      "savol": "Yevropa maydoni qancha ?\n",
+      "javoblar": {
+        "10 mln\n": "A",
+        "4 mln\n": "B",
+        "14 mln\n": "C",
+        "44 mln\n": "D"
+      },
+      "tj": "10 mln\n"
+    },
+    "savol151": {
+      "savol": "Yevrosiyoning subtropik mintaqalarida nechta tabiat zonalari shakllangan?\n",
+      "javoblar": {
+        "3 ta\n": "A",
+        "5 ta\n": "B",
+        "4 ta\n": "C",
+        "6 ta\n": "D"
+      },
+      "tj": "3 ta\n"
+    },
+    "savol156": {
+      "savol": "Subtropik sernam musson o'rmonlar uchun qanday daraxtlar xos?\n",
+      "javoblar": {
+        "kameliya, kamforali dafna, paporotnik\n": "A",
+        "oq va qora saksovul, qum majnuntoli\n": "B",
+        "yertut daraxt, mirta, shuvoq\n": "C",
+        "past bo'yli daraxt,mayda bargli tosh eman\n": "D"
+      },
+      "tj": "kameliya, kamforali dafna, paporotnik\n"
+    },
+    "savol161": {
+      "savol": "Yevrosiyoda tropik mintaqadagi eng quruq va issiq joy qayer hosoblanadi?\n",
+      "javoblar": {
+        "Rub al-Xali\n": "A",
+        "Gobi\n": "B",
+        "Hindiston\n": "C",
+        "Hindixitoy\n": "D"
+      },
+      "tj": "Rub al-Xali\n"
+    },
+    "savol166": {
+      "savol": "Yovvoyi eshak-onagr, uchqur kiyik qayerda uchraydi?\n",
+      "javoblar": {
+        "Arabiston cho'llarida\n": "A",
+        "Malakka y.o.\n": "B",
+        "Hindistonda\n": "C",
+        "Hindixitoyda\n": "D"
+      },
+      "tj": "Arabiston cho'llarida\n"
+    },
+    "savol171": {
+      "savol": "Sal daraxtining balandligi qanchani tashkil qiladi?\n",
+      "javoblar": {
+        "30-35 m\n": "A",
+        "10-15 m\n": "B",
+        "20-40 m\n": "C",
+        "15-20 m\n": "D"
+      },
+      "tj": "30-35 m\n"
+    },
+    "savol176": {
+      "savol": "Qaysi hududda bambuklar ko'p o'sadi?\n",
+      "javoblar": {
+        "Hindixitoy\n": "A",
+        "Arabiston\n": "B",
+        "Gang\n": "C",
+        "Hindiston\n": "D"
+      },
+      "tj": "Hindixitoy\n"
+    },
+    "savol181": {
+      "savol": "Yevrosiyoning ekvatorial nam o'rmonlarida qanday tuproqlar keng tarqalgan?\n",
+      "javoblar": {
+        "ferralit-laterit\n": "A",
+        "podzol tuproq\n": "B",
+        "qo'ng'ir tuproq\n": "C",
+        "tipik kashtan\n": "D"
+      },
+      "tj": "ferralit-laterit\n"
+    },
+    "savol186": {
+      "savol": "Alp tog'ining kordinatasini aniqlang?\n",
+      "javoblar": {
+        "46\u00b0 sh.k., 18\u00b0 shq.u.\n": "A",
+        "38\u00b0 sh.k., 88\u00b0 shq.u.\n": "B",
+        "46\u00b0 sh.k., 88\u00b0 shq.u.\n": "C",
+        "38\u00b0 sh.k., 18\u00b0 shq.u.\n": "D"
+      },
+      "tj": "46\u00b0 sh.k., 18\u00b0 shq.u.\n"
+    },
+    "savol191": {
+      "savol": "Odatda, yozda yetishtiriladigan ekinlarni aniqlang?\n",
+      "javoblar": {
+        "sholi, jut, shakarqamish\n": "A",
+        "arpa, jut, bug'doy\n": "B",
+        "arpa, grechixa, bug'doy\n": "C",
+        "sholi, shakarqamish, bug'doy\n": "D"
+      },
+      "tj": "sholi, jut, shakarqamish\n"
+    },
+    "savol196": {
+      "savol": "Qaysi tog'ning shimoliy yonbag'rida dasht, o'rmondasht, kengbargli o'rmonlar, aralash o'rmonlar, igna bargli o'rmonlar, subalp va alp o'tloqlari, eng balandda qor va muzliklar almashinib keladi?\n",
+      "javoblar": {
+        "Kavkaz\n": "A",
+        "Alp\n": "B",
+        "Pomir\n": "C",
+        "Himolay\n": "D"
+      },
+      "tj": "Kavkaz\n"
+    },
+    "savol201": {
+      "savol": "Yevrosiyoda 2016-yil 1-iyul hisobi bo'yicha qancha kishi yashaydi?\n",
+      "javoblar": {
+        "5 mlrd 177 mln\n": "A",
+        "4 mlrd 437 mln\n": "B",
+        "3 mlrd 740 mln\n": "C",
+        "5 mlrd 437 mln\n": "D"
+      },
+      "tj": "5 mlrd 177 mln\n"
+    },
+    "savol206": {
+      "savol": "Yevrosiyoning qaysi hududlarida aholining o'sishi yuqori?\n",
+      "javoblar": {
+        "O'rta Osiyo, Osiyoning janubi va janubi-sharqiy qismi\n": "A",
+        "Yevropa, Markaziy va Janubiy Osiyo\n": "B",
+        "Markaziy Osiyo, Osiyoning sharqi va g'arbi\n": "C",
+        "Hindiston, Buyuk Xitoy tekisligi, Yevropa\n": "D"
+      },
+      "tj": "O'rta Osiyo, Osiyoning janubi va janubi-sharqiy qismi\n"
+    },
+    "savol211": {
+      "savol": "Yevrosiyoda aholining deyarli yarmi yevropeoid irqiga mansub bo'lib, qaysi hududlarda kengtarqalgan?\n",
+      "javoblar": {
+        "Yevropa va Osiyoning janubi g'arbi\n": "A",
+        "Yevropa va Osiyoning janubi sharqi\n": "B",
+        "Osiyoning shimoli va Yevropaning sharqi\n": "C",
+        "Yevropa va Osiyoning shimoli\n": "D"
+      },
+      "tj": "Yevropa va Osiyoning janubi g'arbi\n"
+    },
+    "savol216": {
+      "savol": "Rossiyaning maydoni Xitoy maydonidan qancha katta?\n",
+      "javoblar": {
+        "7,5 mln kv km\n": "A",
+        "9,6 mln kv km\n": "B",
+        "5,6 mln kv km\n": "C",
+        "6,5 mln kv km\n": "D"
+      },
+      "tj": "7,5 mln kv km\n"
+    },
+    "savol221": {
+      "savol": "Qaysi dengiz sohillaridagi qadimiy subtropik o'rmonlar inson xo'jalik faoliyati tufayli kesib yuborildi?\n",
+      "javoblar": {
+        "O'rta dengiz\n": "A",
+        "Egey dengzi\n": "B",
+        "Qizil dengiz\n": "C",
+        "Qora dengzi\n": "D"
+      },
+      "tj": "O'rta dengiz\n"
+    },
+    "savol226": {
+      "savol": "Qachondan boshlab o'rmonalar, cho'llar va tog'li zonalarni o'zlashtirishga kirishildi?\n",
+      "javoblar": {
+        "XX asrning 2-yarmidan\n": "A",
+        "XX asrning 1-yarmidan\n": "B",
+        "XIX asrning 1-yarmidan\n": "C",
+        "XIX asrning 2-yarmidan\n": "D"
+      },
+      "tj": "XX asrning 2-yarmidan\n"
+    },
+    "savol231": {
+      "savol": "Belovej pushchasi va Astraxan qo'riqxona va milliy bog'lari qayerda tashkil qilingan?\n",
+      "javoblar": {
+        "Yevropa\n": "A",
+        "Ural tog'larida\n": "B",
+        "Osiyo\n": "C",
+        "Himolay tog'larida\n": "D"
+      },
+      "tj": "Yevropa\n"
+    },
+    "savol236": {
+      "savol": "Taman Negara kabi qo'riqxona va milliy bog'lar qaysi qit'ada joylashgan?\n",
+      "javoblar": {
+        "Osiyoda\n": "A",
+        "Yevropada\n": "B",
+        "Afrikada\n": "C",
+        "Avstraliya\n": "D"
+      },
+      "tj": "Osiyoda\n"
+    },
+    "savol241": {
+      "savol": "Osiyoda joylashgan qo'riqxona va milliy bog'larni aniqlang?\n",
+      "javoblar": {
+        "Barguzin, Chatqol, Issiqko'l\n": "A",
+        "Ilmen, Oltoy, Taman Negara\n": "B",
+        "Taman Negara, Oltoy, Chatqol\n": "C",
+        "Astraxan, Chatqol, Barguzin\n": "D"
+      },
+      "tj": "Barguzin, Chatqol, Issiqko'l\n"
+    },
+    "savol246": {
+      "savol": "Pokiston aholi hozirgi kunda qanchani tashkil qiladi?\n",
+      "javoblar": {
+        "203,4 mln\n": "A",
+        "1,3 mlrd\n": "B",
+        "162,9 mln\n": "C",
+        "259,4 mln\n": "D"
+      },
+      "tj": "203,4 mln\n"
+    },
+    "savol251": {
+      "savol": "Qishda yetishtiriladigan o'simliklarni aniqlang?\n",
+      "javoblar": {
+        "arpa, bug'doy, grechixa\n": "A",
+        "jut, arpa, bug'doy\n": "B",
+        "jut, sholi, shakarqamish\n": "C",
+        "sholi, arpa, bug'doy\n": "D"
+      },
+      "tj": "arpa, bug'doy, grechixa\n"
+    },
+    "savol256": {
+      "savol": "Qutblarda mintaqalar soni nechta bo'ladi?\n",
+      "javoblar": {
+        "1 ta\n": "A",
+        "2 ta\n": "B",
+        "bo'lmaydi\n": "C",
+        "3 ta\n": "D"
+      },
+      "tj": "1 ta\n"
+    },
+    "savol261": {
+      "savol": "Taygada joylashgan tog'larda nechta iqlim mintaqalari hosil bo'ladi?\n",
+      "javoblar": {
+        "3 ta\n": "A",
+        "1 ta\n": "B",
+        "7 ta\n": "C",
+        "2 ta\n": "D"
+      },
+      "tj": "3 ta\n"
+    },
+    "savol266": {
+      "savol": "Alp tog'ining 2 500-3 000 m balandligida qaysi iqlim mintaqasi joylashgan?\n",
+      "javoblar": {
+        "qor-muz qoyatosh\n": "A",
+        "aralash o'rmonlar\n": "B",
+        "igna bargli o'rmonlar\n": "C",
+        "subtropik doimiy yashil o'rmonlar\n": "D"
+      },
+      "tj": "qor-muz qoyatosh\n"
+    },
+    "savol271": {
+      "savol": "Tog'lar dasht zonasida joylashgan bo'lsa, nechta iqlim mintaqasi hosil bo'ladi?\n",
+      "javoblar": {
+        "7 ta\n": "A",
+        "5 ta\n": "B",
+        "3 ta\n": "C",
+        "1 ta\n": "D"
+      },
+      "tj": "7 ta\n"
+    },
+    "savol276": {
+      "savol": "Yevrosiyoning qancha qismi tog'lardan iborat?\n",
+      "javoblar": {
+        "50 %\n": "A",
+        "40 %\n": "B",
+        "60 %\n": "C",
+        "70 %\n": "D"
+      },
+      "tj": "50 %\n"
+    },
+    "savol281": {
+      "savol": "Yevrosiyoning O'rta dengiz sohillari bo'ylab qaysi zona joylashgan?\n",
+      "javoblar": {
+        "subtropik o'rmonlar va butazorlar\n": "A",
+        "tropik o'rmonlar\n": "B",
+        "chalacho'l va cho'l, savannalar\n": "C",
+        "subtropik sernam musson o'rmonlar\n": "D"
+      },
+      "tj": "subtropik o'rmonlar va butazorlar\n"
+    },
+    "savol286": {
+      "savol": "\"Turkiston\" nomli asarning muallifi kim?\n",
+      "javoblar": {
+        "I.V.Mushketov\n": "A",
+        "Zokirov\n": "B",
+        "Nosir Xisrav\n": "C",
+        "H.Hasanov\n": "D"
+      },
+      "tj": "I.V.Mushketov\n"
+    },
+    "savol291": {
+      "savol": "Yevrosiyo materigi nechta tabiiy geografik o'lkalarga bo'linadi?\n",
+      "javoblar": {
+        "14 ta\n": "A",
+        "5 ta\n": "B",
+        "6 ta\n": "C",
+        "15 ta\n": "D"
+      },
+      "tj": "14 ta\n"
+    },
+    "savol296": {
+      "savol": "Alp tog'lari yoy shaklida g'arbdan sharqqa qancha masofaga cho'zilgan?\n",
+      "javoblar": {
+        "1 200 km\n": "A",
+        "1 500 km\n": "B",
+        "1 400 km\n": "C",
+        "1 300 km\n": "D"
+      },
+      "tj": "1 200 km\n"
+    },
+    "savol301": {
+      "savol": "Karpat tog'larining o'rtacha balandligi qancha?\n",
+      "javoblar": {
+        "800-1200 m\n": "A",
+        "800-1000 m\n": "B",
+        "1200-2000 m\n": "C",
+        "800-900 m\n": "D"
+      },
+      "tj": "800-1200 m\n"
+    },
+    "savol306": {
+      "savol": "Besh qirrali Monblan cho'qqisi qaysi tog'da joylashgan?\n",
+      "javoblar": {
+        "Alp\n": "A",
+        "Karpat\n": "B",
+        "Tyanshan\n": "C",
+        "Kavkaz\n": "D"
+      },
+      "tj": "Alp\n"
+    },
+    "savol311": {
+      "savol": "Qaysi tog'ning end baland joylari ham tog' o'rmonlari bilan qoplangan planinalar(yaylovlar)dan iborat?\n",
+      "javoblar": {
+        "Karpat\n": "A",
+        "Tyanshan\n": "B",
+        "Alp\n": "C",
+        "Kavkaz\n": "D"
+      },
+      "tj": "Karpat\n"
+    },
+    "savol316": {
+      "savol": "Sharqiy Yevropa tekisligidagi neft konlari qaysilar?\n",
+      "javoblar": {
+        "Krivoy-Rogdagi temir koni\n": "A",
+        "Pechora va Donetsk\n": "B",
+        "Volga-Ural rayoni va Pechora\n": "C",
+        "Boltiqbo'yi va Pechora\n": "D"
+      },
+      "tj": "Krivoy-Rogdagi temir koni\n"
+    },
+    "savol321": {
+      "savol": "Sharqiy Yevropa tekisligining g'arbida qish yumshoq bo'lib, havo harorati qancha bo'ladi?\n",
+      "javoblar": {
+        "-6, -8\u00b0C\n": "A",
+        "-5, -10\u00b0C\n": "B",
+        "-10, -20\u00b0C\n": "C",
+        "-3, -7\u00b0C\n": "D"
+      },
+      "tj": "-6, -8\u00b0C\n"
+    },
+    "savol326": {
+      "savol": "Sharqiy Yevropa tekisligining shimolga(a), janubga(b) qarab oqadigan daryolari qaysilar? 1)Volga, 2)Shimoliy Dvina, 3)Dnepr, 4)Ural, 5)Pechora, 6)Mezen\n",
+      "javoblar": {
+        "a-2,5,6; b-1,3,4\n": "A",
+        "a-1,4,6; b-2,3,5\n": "B",
+        "a-4,5,6; b-1,2,3\n": "C",
+        "a-3,4,6; b-1,2,5\n": "D"
+      },
+      "tj": "a-2,5,6; b-1,3,4\n"
+    },
+    "savol331": {
+      "savol": "Sharqiy Yevropa tekisligida ko'llar qaysi qismida keng tarqalgan?\n",
+      "javoblar": {
+        "shimoli-g'arbida\n": "A",
+        "sharqida\n": "B",
+        "shimolida\n": "C",
+        "shimoli-sharqida\n": "D"
+      },
+      "tj": "shimoli-g'arbida\n"
+    },
+    "savol336": {
+      "savol": "Kara dengizidagi bir qancha kichikroq orollar qaysi tabiiy geografik o'lka tarkibiga kiradi?\n",
+      "javoblar": {
+        "G'arbiy Sibir\n": "A",
+        "Markaziy Osiyo\n": "B",
+        "Sharqiy Sibir\n": "C",
+        "Sharqiy Yevropa\n": "D"
+      },
+      "tj": "G'arbiy Sibir\n"
+    },
+    "savol341": {
+      "savol": "Taymir,Xatanga,Vilyuy,Anabar kabi yirik daryolar qaysi o'lkada joylashgan?\n",
+      "javoblar": {
+        "Sharqiy Sibir\n": "A",
+        "Markaziy Osiyo\n": "B",
+        "G'arbiy Sibir\n": "C",
+        "O'rta Yevropa\n": "D"
+      },
+      "tj": "Sharqiy Sibir\n"
+    },
+    "savol346": {
+      "savol": "O'rta Sibir yassi tog'ligining yuzasi dengiz sathidan o'rtacha necha metr baland?\n",
+      "javoblar": {
+        "400-600 m\n": "A",
+        "200-400 m\n": "B",
+        "300-500 m\n": "C",
+        "500-700 m\n": "D"
+      },
+      "tj": "400-600 m\n"
+    },
+    "savol351": {
+      "savol": "Oymyakonda qishda harorat necha gradus qayd etilgan?\n",
+      "javoblar": {
+        "-71\u00b0C\n": "A",
+        "-30\u00b0C\n": "B",
+        "-36\u00b0C\n": "C",
+        "-38\u00b0C\n": "D"
+      },
+      "tj": "-71\u00b0C\n"
+    },
+    "savol356": {
+      "savol": "Markaziy Osiyo o'lkasining qaysi qismidan Yer po'stining faol Alp-Himolay seysmik mintaqasi o'tadi?\n",
+      "javoblar": {
+        "markaziy va janubiy\n": "A",
+        "markaziy va sharqiy\n": "B",
+        "sharqiy va janubiy\n": "C",
+        "shimoliy va sharqiy\n": "D"
+      },
+      "tj": "markaziy va janubiy\n"
+    },
+    "savol361": {
+      "savol": "Markaziy Osiyo o'lkasida suvsiz va qurib qoladigan berk havzada joylashgan daryolar qaysilar?\n",
+      "javoblar": {
+        "Tarim, Zulayho\n": "A",
+        "Xuanxe, Yanszi\n": "B",
+        "Maxanadi, Gadavari\n": "C",
+        "Oder, Visla\n": "D"
+      },
+      "tj": "Tarim, Zulayho\n"
+    },
+    "savol366": {
+      "savol": "Sharqiy Sibirning g'arbiy qismi qaysi erada ko'tarilgan?\n",
+      "javoblar": {
+        "paleozoy\n": "A",
+        "arxey\n": "B",
+        "kaynozoy\n": "C",
+        "mezozoy\n": "D"
+      },
+      "tj": "paleozoy\n"
+    },
+    "savol371": {
+      "savol": "Markaziy Osiyodagi chuchuk ko'llarni aniqlang?\n",
+      "javoblar": {
+        "Bagrashko'l, Orin-Nur\n": "A",
+        "Kukunur, Ubsu-Nur\n": "B",
+        "Lobnor, Orin-Nur\n": "C",
+        "Bagrashko'l, Ubsu-Nur\n": "D"
+      },
+      "tj": "Bagrashko'l, Orin-Nur\n"
+    },
+    "savol376": {
+      "savol": "Qaysi o'lka shimoldan janubga qarab dengiz sohillari bo'ylab bir necha ming kilometrga cho'zilgan?\n",
+      "javoblar": {
+        "Sharqiy Osiyo\n": "A",
+        "O'rta Yevropa\n": "B",
+        "Sharqiy Yevropa\n": "C",
+        "O'rta Sibir\n": "D"
+      },
+      "tj": "Sharqiy Osiyo\n"
+    },
+    "savol381": {
+      "savol": "Markaziy Osiyoda mo'tadil va quruq subtropik iqlim mintaqalarining qaysi tabiat zonalari hosil bo'lgan?\n",
+      "javoblar": {
+        "o'rmon-dasht, chalacho'l va cho'l\n": "A",
+        "dasht, o'rmon-dasht, savannalar\n": "B",
+        "chalacho'l va cho'l, savannalar\n": "C",
+        "aralash o'rmonlar, keng bargli o'rmonlar\n": "D"
+      },
+      "tj": "o'rmon-dasht, chalacho'l va cho'l\n"
+    },
+    "savol386": {
+      "savol": "Buyuk Xitoy pasttekisligida yillik yog'in miqdori shimolida qancha?\n",
+      "javoblar": {
+        "500 mm\n": "A",
+        "200-400 mm\n": "B",
+        "150 mm\n": "C",
+        "1000 mm\n": "D"
+      },
+      "tj": "500 mm\n"
+    },
+    "savol391": {
+      "savol": "Tariqning bir turi- gaolyan qayerda yetishtiriladi?\n",
+      "javoblar": {
+        "Sharqiy Osiyo\n": "A",
+        "Janubiy Osiyo\n": "B",
+        "Markaziy Osiyo\n": "C",
+        "Old Osiyo\n": "D"
+      },
+      "tj": "Sharqiy Osiyo\n"
+    },
+    "savol396": {
+      "savol": "Old Osiyo o'lkasi qaysi hududlarni o'z ichiga oladi?\n",
+      "javoblar": {
+        "Kichik Osiyo y.o, Arabiston va Eron tog'liklari\n": "A",
+        "Malakka va Hindixitoy y.o., Filippin oroli\n": "B",
+        "Arabiston y.o. va O'rta Osiyo\n": "C",
+        "Kichik Osiyo, Yaqin Sharq va Malakka y.o.\n": "D"
+      },
+      "tj": "Kichik Osiyo y.o, Arabiston va Eron tog'liklari\n"
+    },
+    "savol401": {
+      "savol": "Old Osiyo sharqda qayer bilan chegaralanadi?\n",
+      "javoblar": {
+        "O'rta Osiyo\n": "A",
+        "Sharqiy Yevropa\n": "B",
+        "Janubiy Osiyo\n": "C",
+        "Janubi-g'arbiy Osiyo\n": "D"
+      },
+      "tj": "O'rta Osiyo\n"
+    },
+    "savol406": {
+      "savol": "Qaysi o'lka hududida balandligi 200 metrdan oshmaydigan pasttekisliklardan tortib, mutlaq balandligi 5 000 metrdan ortadigan baland tizmalarni uchratish mumkin?\n",
+      "javoblar": {
+        "Old Osiyoda\n": "A",
+        "G'arbiy Sibirda\n": "B",
+        "Janubiy Osiyoda\n": "C",
+        "Sharqiy Osiyoda\n": "D"
+      },
+      "tj": "Old Osiyoda\n"
+    },
+    "savol411": {
+      "savol": "Hindiston yarimorolida yanvar oyining o'rtacha harorati qancha?\n",
+      "javoblar": {
+        "+16\u00b0C\n": "A",
+        "+20\u00b0C\n": "B",
+        "+35\u00b0C\n": "C",
+        "+25\u00b0C\n": "D"
+      },
+      "tj": "+16\u00b0C\n"
+    },
+    "savol416": {
+      "savol": "Qaysi yarimorolning Yer yuzasining katta qismi qadimgi kristall jinslardan tuzilgan?\n",
+      "javoblar": {
+        "Hindiston yarimoroli\n": "A",
+        "Arabiston yarimoroli\n": "B",
+        "Malakka yarimoroli\n": "C",
+        "Hindixitoy yarimoroli\n": "D"
+      },
+      "tj": "Hindiston yarimoroli\n"
+    },
+    "savol421": {
+      "savol": "Old Osiyoning eng baland nuqtasi qayer?\n",
+      "javoblar": {
+        "Elbrus(5 642 m)\n": "A",
+        "Monblan(4 807 m)\n": "B",
+        "Chogori(8 611 m)\n": "C",
+        "Anaymudi(2 698 m)\n": "D"
+      },
+      "tj": "Elbrus(5 642 m)\n"
+    },
+    "savol426": {
+      "savol": "G'arbiy Gatt tog'lari markazida qanday o'rmonlar tarqalgan?\n",
+      "javoblar": {
+        "doimiy yashil nam tropik o'rmonlar\n": "A",
+        "aralash o'rmonla\n": "B",
+        "savanna o'rmonlar va savannalar\n": "C",
+        "savanna o'rmonlar va keng bargli o'rmonlar\n": "D"
+      },
+      "tj": "doimiy yashil nam tropik o'rmonlar\n"
+    },
+    "savol431": {
+      "savol": "Himolay tog'larining g'arbiy bo'lagi qaysi iqlim mintaqasiga qaraydi?\n",
+      "javoblar": {
+        "tropik\n": "A",
+        "ekvatorial\n": "B",
+        "subekvatorial\n": "C",
+        "subtropik\n": "D"
+      },
+      "tj": "tropik\n"
+    },
+    "savol436": {
+      "savol": "Hindiston yarimorolida iyun oyining o'rtacha harorati qancha?\n",
+      "javoblar": {
+        "+40\u00b0C\n": "A",
+        "+35\u00b0C\n": "B",
+        "+20\u00b0C\n": "C",
+        "+25\u00b0C\n": "D"
+      },
+      "tj": "+40\u00b0C\n"
+    },
+    "savol441": {
+      "savol": "Gang daryosining quyi oqimida yog'in miqdori qanchaga yetadi?\n",
+      "javoblar": {
+        "2 500 mm\n": "A",
+        "3 500 mm\n": "B",
+        "2 000 mm\n": "C",
+        "3 000 mm": "D"
+      },
+      "tj": "2 500 mm\n"
+    }
+  }
+}
