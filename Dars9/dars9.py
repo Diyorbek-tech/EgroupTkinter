@@ -30,18 +30,19 @@ def get_all_user():
 def update_user_all(username,login,password,logineski,email,phone):
     def is_valid_email(email):
         pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
-        if pattern == True:
-            return re.match(pattern, email) is not None
+        if re.match(pattern, email):
+            cursor = db.cursor()
+            sql = 'UPDATE register SET username=%s, login=%s,password=%s,email=%s,phone=%s WHERE login=%s'
+            values = (username, login, password, email, phone, logineski)
+            cursor.execute(sql, values)
+            db.commit()
+            cursor.close()
+
         else :
             print("Email xato !")
 
 
-    cursor=db.cursor()
-    sql = 'UPDATE register SET username=%s, login=%s,password=%s,email=%s,phone=%s WHERE login=%s'
-    values = (username,login,password,email,phone,logineski)
-    cursor.execute(sql,values)
-    db.commit()
-    cursor.close()
+
 def update_user_nlp(username,login,password,logineski):
     cursor=db.cursor()
     sql = 'UPDATE register SET username=%s, login=%s,password=%s WHERE login=%s'
