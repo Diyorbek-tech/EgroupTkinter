@@ -1,3 +1,5 @@
+import re
+
 from tkinter import *
 import mysql.connector
 
@@ -26,6 +28,14 @@ def get_all_user():
     data = cursor.fetchall()
     return data
 def update_user_all(username,login,password,logineski,email,phone):
+    def is_valid_email(email):
+        pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+        if pattern == True:
+            return re.match(pattern, email) is not None
+        else :
+            print("Email xato !")
+
+
     cursor=db.cursor()
     sql = 'UPDATE register SET username=%s, login=%s,password=%s,email=%s,phone=%s WHERE login=%s'
     values = (username,login,password,email,phone,logineski)
@@ -59,3 +69,4 @@ def delete_user(login):
 # update_user_all("Johongir","john",'1231234',"Abror","john@gmail.com","5564468498")
 # update_user_nlp("Shaxzod","shox",'qwerty1234','abrorchik')
 
+update_user_all(username="jakhongir",login="Idk", password="idk", phone="idk", email="jahongirq", logineski="jakhongir" )
