@@ -13,6 +13,8 @@ def add_user_data(username,login,password,email=None,phone=None):
     values = (username, login, password, email, phone)
     cursor.execute(sql,values)
     db.commit()
+
+add_user_data('asadbek', 'asadbek0209', '098765', 'asadbek@gmail.com', '914290404')
 def get_user_data(login):
     cursor = db.cursor()
     sql = f"SELECT * FROM register WHERE login={login}"
