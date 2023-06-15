@@ -2,24 +2,23 @@ from tkinter import *
 from tkinter.messagebox import *
 
 import mysql.connector
-from PIL import Image,ImageTk
+from PIL import Image, ImageTk
 from about import about
 from app1 import App1
 from app2 import App2
 
-oyna=Tk()
+oyna = Tk()
 oyna.geometry("1200x700")
 oyna.title("My App")
-oyna.resizable(False,False)
+oyna.resizable(False, False)
 
 entrytxt1 = StringVar()
 entrytxt2 = StringVar()
 
-#image
-img=PhotoImage(file='images/background.png')
-img_btn=PhotoImage(file='images/buttons.png')
-img_btn2=PhotoImage(file='images/button (1).png')
-
+# image
+img = PhotoImage(file='images/background.png')
+img_btn = PhotoImage(file='images/buttons.png')
+img_btn2 = PhotoImage(file='images/button (1).png')
 
 # connect to db
 db = mysql.connector.connect(
@@ -30,17 +29,22 @@ db = mysql.connector.connect(
 )
 cursor = db.cursor()
 
+
 # sql command
 def add_user_data(username, email, login, password, phone):
     sql = "INSERT INTO register (username, email, login, password, phone) VALUES (%s, %s, %s, %s, %s)"
     values = (username, email, login, password, phone)
     cursor.execute(sql, values)
     db.commit()
+
+
 def get_user_log(login):
     sql = "SELECT * FROM register WHERE login=%s"
     cursor.execute(sql, (login,))
     data = cursor.fetchone()
     return data
+
+
 def get_user_pass(password):
     sql = "SELECT * FROM register WHERE login=%s"
     cursor.execute(sql, (password,))
@@ -53,14 +57,13 @@ def pagination(frame):
     frame.tkraise()
 
 
-
-header=Frame(oyna,width=1200,bg="#1b4332",height=80)
-body=Frame(oyna,width=1200,bg="#d8f3dc",height=580)
-footer=Frame(oyna,width=1200,bg="#1b4332",height=40)
+header = Frame(oyna, width=1200, bg="#1b4332", height=80)
+body = Frame(oyna, width=1200, bg="#d8f3dc", height=580)
+footer = Frame(oyna, width=1200, bg="#1b4332", height=40)
 
 
 def check_signin():
-    global entrytxt1,entrytxt2
+    global entrytxt1, entrytxt2
     login = entrytxt1.get()
     password = entrytxt2.get()
     user_data = get_user_log(login)
@@ -72,7 +75,6 @@ def check_signin():
 
 
 def Signup():
-
     signup_frame = Frame(body, width=300, height=450, bg='white')
 
     Label(signup_frame, text='Sign up', font=('Segoe Script', 22), bg='white', fg='black').place(x=140, y=10)
@@ -97,15 +99,20 @@ def Signup():
     entry3 = StringVar()
     entry4 = StringVar()
     entry5 = StringVar()
-    Entry(signup_frame, textvariable=entry1, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11), justify=CENTER).place(
+    Entry(signup_frame, textvariable=entry1, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11),
+          justify=CENTER).place(
         x=146, y=75)
-    Entry(signup_frame, textvariable=entry2, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11), justify=CENTER).place(
+    Entry(signup_frame, textvariable=entry2, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11),
+          justify=CENTER).place(
         x=146, y=125)
-    Entry(signup_frame, textvariable=entry3, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11), justify=CENTER).place(
+    Entry(signup_frame, textvariable=entry3, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11),
+          justify=CENTER).place(
         x=146, y=175)
-    Entry(signup_frame, textvariable=entry4, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11), justify=CENTER).place(
+    Entry(signup_frame, textvariable=entry4, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11),
+          justify=CENTER).place(
         x=146, y=225)
-    Entry(signup_frame, textvariable=entry5, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11), justify=CENTER).place(
+    Entry(signup_frame, textvariable=entry5, bg='#F3F3F3', width=20, bd=0, font=('Segoe Script', 11),
+          justify=CENTER).place(
         x=146, y=275)
 
     def Done():
@@ -116,6 +123,7 @@ def Signup():
            command=Done).place(x=160, y=390)
 
     signup_frame.place(x=430, y=80)
+
 
 def Signin():
     global entrytxt1, entrytxt2
@@ -137,21 +145,15 @@ def Signin():
 
     Entry(signin_frame, textvariable=entrytxt2, width=18, font=('Segoe Script', 14), bg='#F3F3F3', show='*', bd=0,
           justify=CENTER).place(x=21, y=185)
+
+
 Signin()
 
 img = ImageTk.PhotoImage(Image.open("images/profile.png").resize((60, 60)))
-Button(header,image=img,bg="#1b4332",activebackground="#1b4332",border=0,command=about).place(x=1120,y=10)
-
-
-
-
+Button(header, image=img, bg="#1b4332", activebackground="#1b4332", border=0, command=about).place(x=1120, y=10)
 
 header.pack()
 body.pack()
 footer.pack()
 
-
-
-
 oyna.mainloop()
-
