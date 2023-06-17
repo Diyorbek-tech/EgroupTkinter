@@ -117,22 +117,22 @@ class App1():
         lblO_score = Label(oyna, text='0', font=('Arial', 12))
 
         restartbtn=Button(oyna,text="RESTART",width=10,command=restart_andclear)
-        restartbtn.place(x=700,y=300)
+        restartbtn.place(x=550,y=500)
 
-        btn1.grid(row=0, column=0)
-        btn2.grid(row=0, column=1)
-        btn3.grid(row=0, column=2)
-        btn4.grid(row=1, column=0)
-        btn5.grid(row=1, column=1)
-        btn6.grid(row=1, column=2)
-        btn7.grid(row=2, column=0)
-        btn8.grid(row=2, column=1)
-        btn9.grid(row=2, column=2)
-        framebtn.place(x=50, y=65)
+        btn1.grid(row=3, column=3)
+        btn2.grid(row=3, column=4)
+        btn3.grid(row=3, column=5)
+        btn4.grid(row=4, column=3)
+        btn5.grid(row=4, column=4)
+        btn6.grid(row=4, column=5)
+        btn7.grid(row=5, column=3)
+        btn8.grid(row=5, column=4)
+        btn9.grid(row=5, column=5)
+        framebtn.place(x=400, y=65)
         # lblX_txt.place(x=450, y=230)
-        lblX_score.place(x=570, y=230)
-        lblO_txt.place(x=450, y=290)
-        lblO_score.place(x=570, y=290)
+        lblX_score.place(x=920, y=230)
+        lblO_txt.place(x=800, y=290)
+        lblO_score.place(x=920, y=290)
         return oyna
 
     def get(self):
@@ -141,6 +141,3 @@ class App1():
             i.destroy()
 
         return self.x_o_gamedef(self.frame)
-
-
-
